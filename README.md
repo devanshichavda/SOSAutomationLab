@@ -67,5 +67,7 @@ Steps
 
 9) Email Integration: Configured email notifications for alerts generated within TheHive.<img width="1406" alt="Screenshot 2025-03-14 at 10 39 07 PM" src="https://github.com/user-attachments/assets/c207fed2-d0c1-43e2-818b-86779ccfb230" />
 
-10) Validation: Verified successful alert flow from the Windows VM through Wazuh, Shuffler.io, VirusTotal, and finally to TheHive dashboard and email.<img width="481" alt="Screenshot 2025-03-14 at 10 26 00 PM" src="https://github.com/user-attachments/assets/5e931bef-e67f-49f2-8a0d-e8df7856b9c4" /> 
-<img width="451" alt="Screenshot 2025-03-16 at 3 33 41 PM" src="https://github.com/user-attachments/assets/e25d2a12-5863-400e-b7d8-ca1e3c5fc129" />
+10) Validation: Verified successful alert flow from the Windows VM through Wazuh, Shuffler.io, VirusTotal, and finally to TheHive dashboard and email.
+
+    <img width="481" alt="Screenshot 2025-03-14 at 10 26 00 PM" src="https://github.com/user-attachments/assets/5e931bef-e67f-49f2-8a0d-e8df7856b9c4" /> 
+    <img width="451" alt="Screenshot 2025-03-16 at 3 33 41 PM" src="https://github.com/user-attachments/assets/e25d2a12-5863-400e-b7d8-ca1e3c5fc129" />
