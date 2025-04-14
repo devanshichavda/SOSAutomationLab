@@ -1,4 +1,4 @@
-# SOSAutomationLab
+# SOCAutomationLab
 Objective
 
 Developed a comprehensive cybersecurity home lab to detect and analyze malicious activity. The lab integrated a Windows virtual machine instrumented with Sysmon, a Wazuh server for security information and event management (SIEM), and TheHive for incident response. Leveraging DigitalOcean for infrastructure, the lab incorporated a custom workflow using Shuffler.io to automate alert enrichment with SHA256 regex matching and VirusTotal lookups, culminating in alert visualization within TheHive and email notifications. Mimikatz was utilized to generate security events and validate the efficacy of the implemented monitoring and response pipeline.
